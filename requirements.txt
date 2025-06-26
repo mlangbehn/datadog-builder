@@ -7,3 +7,4 @@ pbr>=1.6 # Apache-2.0
 jsonschema
 PyYAML>=3.10.0  # MIT
 requests
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
